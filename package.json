@@ -1,0 +1,13 @@
+{
+  "name": "restify_test",
+  "description": "hello world form test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "traceur": "*",
+    "connect": "*",
+    "serve-static": "*",
+    "morgan": "*",
+    "node-inspector": "*"
+  }
+}
