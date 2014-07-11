@@ -3,7 +3,7 @@ SPASearch
 description  
 クライアントJavaScriptのみでページングありの検索を行います。
 
-[テストサイト](http://tunajp.github.io/spasearch/)
+[テストサイト](http://tunajp.github.io/spasearch/webroot/)
 
 使い方(node.js)
 -----
