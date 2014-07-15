@@ -2,10 +2,8 @@
  * app.js
  *
  * @author Mitsunori Inaba <m-inaba@phoenixdesign.jp>
- * Copyright(C) 2014 DesignStudioPhoenix Corporation. All Rights Reserved.
  */
 
-module PXConfig from './config';
 module PXUtil from './util';
 
 /**
